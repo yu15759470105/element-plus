@@ -20,7 +20,7 @@
 <script lang="ts" setup>
 import { ref } from 'vue'
 
-const value = ref('2021-10-29')
+const value = ref('1967-10-29')
 const holidays = [
   '2021-10-01',
   '2021-10-02',
